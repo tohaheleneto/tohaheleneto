@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tohaheleneto/static/css/main.9672290d.chunk.css",
+    "main.js": "/tohaheleneto/static/js/main.55168c6b.chunk.js",
+    "main.js.map": "/tohaheleneto/static/js/main.55168c6b.chunk.js.map",
+    "runtime-main.js": "/tohaheleneto/static/js/runtime-main.cac2b716.js",
+    "runtime-main.js.map": "/tohaheleneto/static/js/runtime-main.cac2b716.js.map",
+    "static/js/2.6a548205.chunk.js": "/tohaheleneto/static/js/2.6a548205.chunk.js",
+    "static/js/2.6a548205.chunk.js.map": "/tohaheleneto/static/js/2.6a548205.chunk.js.map",
+    "index.html": "/tohaheleneto/index.html",
+    "precache-manifest.2f43e1effed0d2578d40cc69bcdba7a0.js": "/tohaheleneto/precache-manifest.2f43e1effed0d2578d40cc69bcdba7a0.js",
+    "service-worker.js": "/tohaheleneto/service-worker.js",
+    "static/css/main.9672290d.chunk.css.map": "/tohaheleneto/static/css/main.9672290d.chunk.css.map",
+    "static/js/2.6a548205.chunk.js.LICENSE.txt": "/tohaheleneto/static/js/2.6a548205.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cac2b716.js",
+    "static/js/2.6a548205.chunk.js",
+    "static/css/main.9672290d.chunk.css",
+    "static/js/main.55168c6b.chunk.js"
+  ]
+}
