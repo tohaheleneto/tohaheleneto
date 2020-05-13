@@ -11,8 +11,8 @@ export function App() {
                 {/*className={s.app}*/}
                 <div >
                     <Switch>
+                        <Route path='/cat/' component={Cat}/>
                         <Route path='/' component={Main}/>
-                        <Route path='/cat' component={Cat}/>
                         <Cat/>
                     </Switch>
                 </div>
